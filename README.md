@@ -12,6 +12,8 @@ Top Bar: [Polybar](https://github.com/polybar/polybar)
 
 NeoFetch: [FastFetch](https://github.com/fastfetch-cli/fastfetch)
 
+App Launcher: [Rofi](https://github.com/davatorium/rofi)
+
 ScreenShots: [FlameShot](https://flameshot.org/)
 
 Spotify addon: [Spicetify](https://spicetify.app/)
