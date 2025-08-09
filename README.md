@@ -19,3 +19,5 @@ Spotify addon: [Spicetify](https://spicetify.app/)
 Spicetify theme: [Comfy](https://github.com/Comfy-Themes/Spicetify)
 
 Code Editor: [VSCodium](https://vscodium.com/)
+
+VSCode Theme: [Catpuccin](https://github.com/catppuccin/vscode)
