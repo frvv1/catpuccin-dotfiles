@@ -16,4 +16,6 @@ ScreenShots: [FlameShot](https://flameshot.org/)
 
 Spotify addon: [Spicetify](https://spicetify.app/)
 
+Spicetify theme: [Comfy](https://github.com/Comfy-Themes/Spicetify)
+
 Code Editor: [VSCodium](https://vscodium.com/)
