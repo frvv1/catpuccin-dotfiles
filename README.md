@@ -5,4 +5,10 @@ xz nahuya
 
 
 
-Terminal Emulator: [alacritty](https://github.com/alacritty/alacritty)
+# Terminal Emulator: [Alacritty](https://github.com/alacritty/alacritty)
+# Windows Manager: [BSPWM-Rounded](https://aur.archlinux.org/bspwm-rounded-corners.git)
+# Top Bar: [Polybar](https://github.com/polybar/polybar)
+# NeoFetch: [FastFetch](https://github.com/fastfetch-cli/fastfetch)
+# ScreenShots: [FlameShot](https://flameshot.org/)
+# Spotify addon: [Spicetify](https://spicetify.app/)
+# Code Editor: [VSCodium](https://vscodium.com/)
