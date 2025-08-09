@@ -1,2 +1,2 @@
-# my bspwm dotfiles with catpuccin color palette
+# My BSPWM dotfiles with catpuccin color palette
 
